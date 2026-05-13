@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="t">
+  <title id="t">Network Engineering</title>
+  <rect x="8" y="8" width="48" height="48" rx="12" fill="#ebfdf7" stroke="#0cb88e"/>
+  <circle cx="32" cy="20" r="5" fill="#0cb88e"/>
+  <circle cx="20" cy="42" r="5" fill="#0cb88e"/>
+  <circle cx="44" cy="42" r="5" fill="#0cb88e"/>
+  <path d="M32 25v8M26 36l-4 3M38 36l4 3" stroke="#1b2740" stroke-width="3" stroke-linecap="round"/>
+</svg>

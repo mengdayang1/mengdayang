@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="t">
+  <title id="t">Advertising</title>
+  <rect x="8" y="8" width="48" height="48" rx="12" fill="#fff0f2" stroke="#ff4d6d"/>
+  <path d="M20 36h8l16 8V20l-16 8h-8z" fill="#ff4d6d"/>
+  <path d="M20 36l3 10h5l-3-10" fill="#1b2740"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="t">
+  <title id="t">Cloud Service</title>
+  <rect x="8" y="8" width="48" height="48" rx="12" fill="#eaf9f8" stroke="#00a3a3"/>
+  <path d="M21 38h22a8 8 0 0 0 0-16 10 10 0 0 0-19.2 2.7A7 7 0 0 0 21 38z" fill="#00a3a3"/>
+  <path d="M20 44h24" stroke="#1b2740" stroke-width="3" stroke-linecap="round"/>
+</svg>
